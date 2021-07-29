@@ -19,6 +19,7 @@
         "bscscan": "https://etherscan.io/token/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405?a=65341",
         "ipfs": "https://etherscan.io/token/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405?a=65341",
         "ipfs_metadata":"https://etherscan.io/token/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405?a=65341",
+        "auction_status":"active",
         "activities":[{
             "from": {
                 "id": "missoul",
