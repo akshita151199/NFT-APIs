@@ -4,6 +4,10 @@
             "id": "missoul",
             "avatar": "https://static.scientificamerican.com/sciam/cache/file/F16F988F-B16C-45D6-B6F6AD6734363BEA_source.jpg?w=590&h=800&D061FB02-A703-4A52-8D7BF1C9B520F544"
         },
+        "owner": {
+            "id": "missoul",
+            "avatar": "https://static.scientificamerican.com/sciam/cache/file/F16F988F-B16C-45D6-B6F6AD6734363BEA_source.jpg?w=590&h=800&D061FB02-A703-4A52-8D7BF1C9B520F544"
+        },
         "title": "Soarng.",
         "description": "Description lorem ispum lorem ispum",
         "current_bid": 1.0,
@@ -18,6 +22,10 @@
       },
       {
         "creator": {
+            "id": "missoul",
+            "avatar": "https://static.scientificamerican.com/sciam/cache/file/F16F988F-B16C-45D6-B6F6AD6734363BEA_source.jpg?w=590&h=800&D061FB02-A703-4A52-8D7BF1C9B520F544"
+        },
+        "owner": {
             "id": "missoul",
             "avatar": "https://static.scientificamerican.com/sciam/cache/file/F16F988F-B16C-45D6-B6F6AD6734363BEA_source.jpg?w=590&h=800&D061FB02-A703-4A52-8D7BF1C9B520F544"
         },
