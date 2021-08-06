@@ -26,8 +26,8 @@
             },
             "timestamp": 1628584789,
             "event": "bid",
-            "price": 1.0,
-            "price_usd": 1828.45
+            "price_bnb": 1.0,
+            "price_inr": 1828.45
         },
         {
             "from": {
@@ -36,8 +36,8 @@
             },
             "timestamp": 1628584789,
             "event": "bid",
-            "price": 1.0,
-            "price_usd": 1828.45
+            "price_bnb": 1.0,
+            "price_inr": 1828.45
         }]
       }
 }
