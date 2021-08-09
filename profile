@@ -2,7 +2,7 @@
     "data" : {
       
         "id": "missoul",
-        joined_on:1610185071,
+        "joined_on":1610185071,
         "name": "Matteo Mauro Studio",
         "account" : "0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405",
         "bio" : "Collected and exhibited by Grand Palais, Datong Museum, Royal Academy LDN, Dubai Ing-Creatives.. Author of worldwide distributed book ",
