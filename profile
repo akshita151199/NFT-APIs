@@ -22,7 +22,7 @@
             "current_bid": 1.0,
             "min_bid_amount": 1.0,
             "current_bid_inr": 1828.45,
-            "auction_end_timestamp": 123273894,
+            "auction_end_timestamp": 1631180271,
             "asset": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
         },{
             "creator": {
@@ -38,7 +38,7 @@
             "current_bid": 1.0,
             "min_bid_amount": 1.0,
             "current_bid_inr": 1828.45,
-            "auction_end_timestamp": 123273894,
+            "auction_end_timestamp": 1631180271,
             "asset": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
         }],
         "nft_owned": [{
@@ -55,7 +55,7 @@
             "current_bid": 1.0,
             "min_bid_amount": 1.0,
             "current_bid_inr": 1828.45,
-            "auction_end_timestamp": 123273894,
+            "auction_end_timestamp": 1631180271,
             "asset": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
         },{
             "creator": {
@@ -71,7 +71,7 @@
             "current_bid": 1.0,
             "min_bid_amount": 1.0,
             "current_bid_inr": 1828.45,
-            "auction_end_timestamp": 123273894,
+            "auction_end_timestamp": 1631180271,
             "asset": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
         }]
       }
