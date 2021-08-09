@@ -18,6 +18,7 @@
         "bscscan": "https://etherscan.io/token/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405?a=65341",
         "ipfs": "https://etherscan.io/token/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405?a=65341",
         "ipfs_metadata":"https://etherscan.io/token/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405?a=65341",
+        "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
         "auction_status":"started",
         "activities":[{
             "from": {
