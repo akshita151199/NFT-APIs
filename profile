@@ -7,7 +7,7 @@
         "bio" : "Collected and exhibited by Grand Palais, Datong Museum, Royal Academy LDN, Dubai Ing-Creatives.. Author of worldwide distributed book ",
         "avatar": "https://static.scientificamerican.com/sciam/cache/file/F16F988F-B16C-45D6-B6F6AD6734363BEA_source.jpg?w=590&h=800&D061FB02-A703-4A52-8D7BF1C9B520F544",
         "socials":[
-        {"name":"twitter" , "id":"twitter.com/ambaniadani" },{"name":"web","id":"y.at/ef/asdf"},{"name": "youtube" ,"id": "youtube.at/ef/asdf" },{ "name":"instagram" ,"id": "instagram.com/user231" },{"name": "fb","id":"fb.com/ef/asdf"}
+        {"name":"twitter" , "id":"twitter.com/ambaniadani" },{"name":"web","id":"y.at/ef/asdf"},{"name": "youtube" ,"id": "youtube.at/ef/asdf" },{ "name":"instagram" ,"id": "instagram.com/user231" },{"name": "facebook","id":"fb.com/ef/asdf"}
         ],
         "story":"https://static.scientificamerican.com/sciam/cache/file/F16F988F-B16C-45D6-B6F6AD6734363BEA_source.jpg?w=590&h=800&D061FB02-A703-4A52-8D7BF1C9B520F544",
         "nft_created": [{
