@@ -6,7 +6,7 @@
         "account" : "0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405",
         "bio" : "Collected and exhibited by Grand Palais, Datong Museum, Royal Academy LDN, Dubai Ing-Creatives.. Author of worldwide distributed book ",
         "avatar": "https://static.scientificamerican.com/sciam/cache/file/F16F988F-B16C-45D6-B6F6AD6734363BEA_source.jpg?w=590&h=800&D061FB02-A703-4A52-8D7BF1C9B520F544",
-        "socials":[{"twitter" : "matteomauro_nft" , "youtube" : "YouTube" , "instagram" : "Instagram" , "fb":"facebook"}],
+        "socials":[{"twitter" : "twitter.com/ambaniadani" ,"web":"y.at/ef/asdf", "youtube" : "youtube.at/ef/asdf" , "instagram" : "instagram.com/user231" , "fb":"fb.com/ef/asdf"}],
         "story":"https://static.scientificamerican.com/sciam/cache/file/F16F988F-B16C-45D6-B6F6AD6734363BEA_source.jpg?w=590&h=800&D061FB02-A703-4A52-8D7BF1C9B520F544",
         "nft_created": [{
             "creator": {
