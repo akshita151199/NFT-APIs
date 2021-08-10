@@ -10,7 +10,7 @@
         "socials":[
         {"name":"twitter" , "id":"twitter.com/ambaniadani" },{"name":"web","id":"y.at/ef/asdf"},{"name": "youtube" ,"id": "youtube.at/ef/asdf" },{ "name":"instagram" ,"id": "instagram.com/user231" },{"name": "facebook","id":"fb.com/ef/asdf"}
         ],
-        "story":"https://static.scientificamerican.com/sciam/cache/file/F16F988F-B16C-45D6-B6F6AD6734363BEA_source.jpg?w=590&h=800&D061FB02-A703-4A52-8D7BF1C9B520F544",
+        "story":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
         "nft_created": [{
             "creator": {
                 "id": "missoul",
