@@ -14,7 +14,7 @@
                   "auction_status":"started",
                   "price_bnb": 1.0,
                   "price_inr": 1828.45,
-                  "auction_end_timestamp": 1628584789,
+                  "auction_end_timestamp": 1631243440,
                   "asset": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
               },
               {
@@ -48,7 +48,7 @@
                 "auction_status":"started",
                 "price_bnb": 2.0,
                 "price_inr": 2828.45,
-                "auction_end_timestamp": 1628671189,
+                "auction_end_timestamp": 1631243440,
                 "asset": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
               },
             {
