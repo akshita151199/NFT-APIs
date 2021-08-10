@@ -35,7 +35,7 @@
         "current_bid_inr": 1828.45,
         "auction_end_timestamp": 123273894,
         "asset": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
-        "bid_status" : "outbid",
+        "bid_status" : "wining",
         "bid_amount" : 2.0,
         "bid_amount_inr" : 1234,
         "token_id":65341,
