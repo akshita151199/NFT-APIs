@@ -12,7 +12,7 @@
         "description": "Description lorem ispum lorem ispum",
         "price_bnb": 1.0,
         "price_inr": 1828.45,
-        "auction_end_timestamp": 1628584789,
+        "auction_end_timestamp": 1631243440,
         "asset": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
         "nft_story" : "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
         "bscscan": "https://etherscan.io/token/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405?a=65341",
