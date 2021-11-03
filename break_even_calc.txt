@@ -1,26 +1,30 @@
-(function calculateBreakEven(is_type_call, asset, strike, asset_amount, total_fee, bnb_current_price){
-    price = 0;
-    expected_payout = total_fee;
-    if(is_type_call){
-        if(asset == 'BNB'){
-            if(asset_amount <= expected_payout){
-                console.log("Invalid input value, option size needs to be greater than total_fee");
-                return null;
-            }
-            price = asset_amount*strike/parseFloat(asset_amount - expected_payout);
-        }
-        else{
-            price = strike + expected_payout*bnb_current_price/asset_amount;
-        }
+(function calculateBreakEven(
+  is_type_call,
+  asset,
+  strike,
+  asset_amount,
+  total_fee,
+  bnb_current_price
+) {
+  let price = 0;
+  let expected_payout = total_fee;
+  if (is_type_call) {
+    if (asset == "BNB") {
+      if (asset_amount <= expected_payout) {
+        return null;
+      }
+      price =
+        (asset_amount * strike) / parseFloat(asset_amount - expected_payout);
+    } else {
+      price = strike + (expected_payout * bnb_current_price) / asset_amount;
     }
-    else{
-        if(asset == 'BNB'){
-            price = asset_amount*strike/parseFloat(asset_amount + expected_payout);
-        }
-        else{
-            price = strike - expected_payout*bnb_current_price/asset_amount;
-        }
+  } else {
+    if (asset == "BNB") {
+      price =
+        (asset_amount * strike) / parseFloat(asset_amount + expected_payout);
+    } else {
+      price = strike - (expected_payout * bnb_current_price) / asset_amount;
     }
-    return price;
-}
-)
+  }
+  return price;
+})
