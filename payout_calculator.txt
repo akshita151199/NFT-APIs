@@ -1,4 +1,4 @@
-const calculatePayoutFromDial = (
+`const calculatePayoutFromDial = (
   asset,
   is_type_call,
   strike,
@@ -57,3 +57,4 @@ function getPayout(
   }
   return Math.min(profit, bnb_amount).toString();
 }
+`
