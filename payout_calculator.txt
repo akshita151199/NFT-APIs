@@ -1,0 +1,59 @@
+const calculatePayoutFromDial = (
+  asset,
+  is_type_call,
+  strike,
+  bnb_amount,
+  asset_amount,
+  bnb_current_price,
+  asset_current_price,
+  dial_percentage
+) => {
+  let dial_multiplier = 1 + parseFloat(dial_percentage) / 100;
+  let asset_future_price = asset_current_price * dial_multiplier;
+  if (asset == "BNB") {
+    return getPayout(
+      is_type_call,
+      strike,
+      bnb_amount,
+      asset_amount,
+      asset_future_price,
+      asset_future_price
+    );
+  } else {
+    return getPayout(
+      is_type_call,
+      strike,
+      bnb_amount,
+      asset_amount,
+      bnb_current_price,
+      asset_future_price
+    );
+  }
+};
+
+function getPayout(
+  is_type_call,
+  strike,
+  bnb_amount,
+  asset_amount,
+  bnb_current_price,
+  asset_current_price
+) {
+  let profit = 0;
+  if (is_type_call) {
+    if (strike > asset_current_price) {
+      return 0;
+    }
+    profit =
+      (parseFloat((asset_current_price - strike).toString()) * asset_amount) /
+      bnb_current_price;
+  } else {
+    if (strike < asset_current_price) {
+      return 0;
+    }
+    profit =
+      (parseInt((strike - asset_current_price).toString()) * asset_amount) /
+      bnb_current_price;
+  }
+  return Math.min(profit, bnb_amount).toString();
+}
